@@ -176,7 +176,18 @@ npx @modelcontextprotocol/inspector python my_tool.py
 
 ---
 
-## 📬 联系与合作
+## � 相关项目
+
+- **[open-assistant-cn](https://github.com/EA-Studio-SHARK/open-assistant-cn)** — 开源个人 AI 超级助手（中文优先）
+- **[ai-morning-brief](https://github.com/EA-Studio-SHARK/ai-morning-brief)** — Claude Code 中文 AI 早报 Skill
+- **[awesome-ai-tools-zh](https://github.com/EA-Studio-SHARK/awesome-ai-tools-zh)** — 500+ 中文 AI 工具合集
+- **[ai-agent-guide](https://github.com/EA-Studio-SHARK/ai-agent-guide)** — 从零学 AI Agent
+- **[local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china)** — 本地 AI 部署指南
+- **[china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp)** — 中国热点 MCP 服务器
+
+---
+
+## �📬 联系与合作
 
 - 💼 **MCP 定制开发**：帮你把任意中国平台工具接入 AI Agent
 - 📬 **Telegram**：[@ExploreAllStudio](https://t.me/ExploreAllStudio)
