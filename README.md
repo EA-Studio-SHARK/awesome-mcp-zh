@@ -52,7 +52,7 @@
       "args": ["-y", "@modelcontextprotocol/server-memory"]
     },
     "china-hot": {
-      "command": "python",
+      "command": "python3",
       "args": ["-m", "china_hot_mcp.server"]
     }
   }
@@ -171,19 +171,14 @@ npx @modelcontextprotocol/inspector python my_tool.py
 |------|------|
 | [MCP 官方文档](https://modelcontextprotocol.io) | 官方文档 |
 | [MCP.so 目录](https://mcp.so) | 最全服务器目录 |
-| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/awesome-mcp-zh) | 大而全的综合列表（7k stars） |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 英文综合列表 |
 
 ---
 
 ## � 相关项目
 
-- **[open-assistant-cn](https://github.com/EA-Studio-SHARK/open-assistant-cn)** — 开源个人 AI 超级助手（中文优先）
+- **[china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp)** — 中国热搜 MCP，让 AI 实时获取微博/知乎/B站/百度/抖音热榜
 - **[ai-morning-brief](https://github.com/EA-Studio-SHARK/ai-morning-brief)** — Claude Code 中文 AI 早报 Skill
-- **[awesome-ai-tools-zh](https://github.com/EA-Studio-SHARK/awesome-ai-tools-zh)** — 500+ 中文 AI 工具合集
-- **[ai-agent-guide](https://github.com/EA-Studio-SHARK/ai-agent-guide)** — 从零学 AI Agent
-- **[local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china)** — 本地 AI 部署指南
-- **[china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp)** — 中国热点 MCP 服务器
+- **[local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china)** — 本地 AI 部署指南，一键启动 DeepSeek/Qwen
 
 ---
 
