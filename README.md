@@ -113,6 +113,7 @@
 
 本项目配套开发的实用工具：
 
+- **[lean-code](https://github.com/EA-Studio-SHARK/lean-code)** — 💰 AI 编码省 Token 神器，Claude Code/Cursor/Windsurf 技能，节省 40-80% Token
 - **[china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp)** — 中国热搜 MCP，让 AI 实时获取微博/知乎/B站/百度/抖音热榜
 - **[local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china)** — 本地 AI 部署指南，一键启动 DeepSeek/Qwen，解决国内网络问题
 
@@ -176,6 +177,7 @@ npx @modelcontextprotocol/inspector python my_tool.py
 
 ## � 相关项目
 
+- **[lean-code](https://github.com/EA-Studio-SHARK/lean-code)** — 💰 AI 编码省 Token 神器，Claude Code/Cursor/Windsurf 技能，节省 40-80% Token
 - **[china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp)** — 中国热搜 MCP，让 AI 实时获取微博/知乎/B站/百度/抖音热榜
 - **[ai-morning-brief](https://github.com/EA-Studio-SHARK/ai-morning-brief)** — Claude Code 中文 AI 早报 Skill
 - **[local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china)** — 本地 AI 部署指南，一键启动 DeepSeek/Qwen
