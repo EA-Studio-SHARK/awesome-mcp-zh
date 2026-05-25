@@ -78,12 +78,22 @@
 
 ### 开发者工具
 
-| 服务器 | 功能 | 安装 |
-|--------|------|------|
-| [github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | 管理仓库/PR/Issues | `npx @modelcontextprotocol/server-github` |
-| [playwright](https://github.com/microsoft/playwright-mcp) | 浏览器自动化（截图/表单/抓数据） | `npx @playwright/mcp@latest` |
-| [sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) | 读写 SQLite 数据库 | `npx @modelcontextprotocol/server-sqlite` |
-| [sequential-thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | 提升复杂推理质量 | `npx @modelcontextprotocol/server-sequential-thinking` |
+| 服务器 | 功能 | 安装 | ⭐ Stars |
+|--------|------|------|----------|
+| [github-mcp-server](https://github.com/github/github-mcp-server) | GitHub 官方 MCP，比旧版更强 | `npx @github/mcp-server` | 30k+ |
+| [playwright](https://github.com/microsoft/playwright-mcp) | 浏览器自动化（截图/表单/抓数据） | `npx @playwright/mcp@latest` | 33k+ |
+| [mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | Google 数据库工具箱（MySQL/Redis/BigQuery） | Go 二进制 | 15k+ |
+| [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | Figma 设计稿转代码，AI 直接读取设计 | `npx figma-developer-mcp` | 15k+ |
+| [mcp-chrome](https://github.com/nicedayzhu/mcp-chrome) | Chrome 浏览器 MCP，AI 控制浏览器 | Chrome 扩展 | 12k+ |
+| [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | 多模型桥接（Gemini/GPT/Grok/Ollama） | `pip install pal-mcp` | 12k+ |
+| [sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) | 读写 SQLite 数据库 | `npx @modelcontextprotocol/server-sqlite` | 官方 |
+| [sequential-thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | 提升复杂推理质量 | `npx @modelcontextprotocol/server-sequential-thinking` | 官方 |
+
+### MCP 开发框架
+
+| 框架 | 说明 | 安装 | ⭐ Stars |
+|------|------|------|----------|
+| [FastMCP](https://github.com/PrefectHQ/fastmcp) | 最流行的 Python MCP 框架，快速构建服务器 | `pip install fastmcp` | 25k+ |
 
 ### 中国常用搜索（替代 Google）
 
@@ -98,14 +108,18 @@
 
 > 这些是中国开发者专属，其他 awesome 列表没有或更新不及时
 
-| 服务器 | 平台 | 功能 |
-|--------|------|------|
-| [高德地图 MCP](https://github.com/amap-demo/amap-mcp-server) | 高德 | 路线规划、POI 搜索、天气查询 |
-| [飞书 MCP](https://github.com/feishu/mcp-server-feishu) | 飞书 | 消息发送、文档读写、日历管理 |
-| [钉钉 MCP](https://github.com/open-dingtalk/mcp-server-dingtalk) | 钉钉 | 群消息、待办事项推送 |
-| [企业微信 MCP](https://github.com/loonghao/wecom-bot-mcp-server) | 企微 | 消息推送到工作群 |
-| [阿里云 MCP](https://github.com/aliyun/alibabacloud-mcp-servers) | 阿里云 | OSS 文件管理、云资源操作 |
-| [china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp) | 全平台热搜 | 微博/知乎/B站/百度/抖音实时热榜 |
+| 服务器 | 平台 | 功能 | ⭐ Stars |
+|--------|------|------|----------|
+| [小红书 MCP](https://github.com/aki66938/xhs-toolkit) | 小红书 | 内容创作、发布、数据分析 | 1.3k+ |
+| [文颜 MCP](https://github.com/nicepkg/wenyan-mcp) | 微信公众号 | Markdown 排版后一键发布到公众号 | 1.2k+ |
+| [微信读书 MCP](https://github.com/freestylefly/mcp-server-weread) | 微信读书 | 读书笔记、书架管理 | 550+ |
+| [高德地图 MCP](https://github.com/amap-demo/amap-mcp-server) | 高德 | 路线规划、POI 搜索、天气查询 | 官方 |
+| [飞书 MCP](https://github.com/feishu/mcp-server-feishu) | 飞书 | 消息发送、文档读写、日历管理 | 官方 |
+| [钉钉 MCP](https://github.com/open-dingtalk/mcp-server-dingtalk) | 钉钉 | 群消息、待办事项推送 | 官方 |
+| [企业微信 MCP](https://github.com/loonghao/wecom-bot-mcp-server) | 企微 | 消息推送到工作群 | 100+ |
+| [阿里云 MCP](https://github.com/aliyun/alibabacloud-mcp-servers) | 阿里云 | OSS 文件管理、云资源操作 | 官方 |
+| [china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp) | 全平台热搜 | 微博/知乎/B站/百度/抖音/头条/掘金等10平台 | 🔥 |
+| [数据核验 MCP](https://github.com/CCCpan/data-validation-mcp) | 中国数据 | 身份核验/企业查询/车辆信息/OCR | 160+ |
 
 ---
 
